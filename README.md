@@ -8,7 +8,7 @@
 
 <br>
 
-[![Web](https://img.shields.io/badge/🌐_Web-taxijerez24h.lovable.app-1d4ed8?style=for-the-badge)](https://taxijerez24h.lovable.app)
+[![Web](https://img.shields.io/badge/🌐_Web-taxijerez24h.lovable.app-1d4ed8?style=for-the-badge)](https://taxijerez24h.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+34_691_31_27_82-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/34691312782)
 [![Email](https://img.shields.io/badge/Email-Taxijerez24h@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Taxijerez24h@gmail.com)
 
